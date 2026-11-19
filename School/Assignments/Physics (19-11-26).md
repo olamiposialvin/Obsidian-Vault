@@ -53,3 +53,16 @@ $$
 \\[1em]
 \boxed{\mathrm{v_{max}} = 0.13 \, \mathrm{m/s}}
 $$
+$$
+\text{From the calculations:}
+\\[1em]
+\begin{array}{|r|c|c|}
+\hline
+\textbf{Variable} & \textbf{Exact Value} & \textbf{Approximate Value {\scriptsize(2.d.p)}}
+\\ \hline
+\omega & \pi \, \mathrm{rad \, s^{-1}} & 3.14 \, \mathrm{rad \, s^{-1}}
+\\ \hline
+\mathrm{v_{max}} & \frac{1}{25}\pi \, \mathrm{m/s} & 0.13 \, \mathrm{m/s}
+\\ \hline
+\end{array}
+$$
