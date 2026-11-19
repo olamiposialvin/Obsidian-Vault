@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1003 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:10;">
+    <rect x="0" y="0" width="1000" height="1000" style="fill:white;"/>
+    <path d="M1000,0L1000,1000L0,1000L0,0L1000,0ZM975,25L25,25L25,975L975,975L975,25Z"/>
+    <g transform="matrix(1,0,0,1,43.233643,-38.320312)">
+        <g transform="matrix(0.000048,0,0,0.953117,492.591404,86.021848)">
+            <path d="M491.646,240.396L489.799,614.876" style="fill:none;"/>
+            <g transform="matrix(20983.776107,-0,-0,1.049189,-11243632.816107,-50.047918)">
+                <path d="M550.848,303.834L535.848,281.334L520.848,303.834" style="fill:none;stroke:rgb(0,191,96);stroke-width:5px;"/>
+                <path d="M535.848,281.334C535.848,322.628 535.848,633.75 535.848,633.75" style="fill:none;stroke:rgb(0,191,96);stroke-width:5px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,0.823028,209.564722,279.333301)">
+            <path d="M483.801,240.396L483.801,477.186" style="fill:none;"/>
+            <g transform="matrix(1,-0,-0,1.215026,-252.798365,-292.83699)">
+                <path d="M751.599,465.873L736.599,443.373L721.599,465.873" style="fill:none;stroke:rgb(189,0,94);stroke-width:5px;"/>
+                <path d="M736.599,443.373L736.599,633.75" style="fill:none;stroke:rgb(189,0,94);stroke-width:5px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-14.143767,204.392362)">
+            <text x="162.68px" y="456.854px" style="font-family:'CMUSerif-Roman', 'CMU Serif';font-weight:500;font-size:37.5px;">Reactan<tspan x="295.358px " y="456.854px ">t</tspan>s</text>
+        </g>
+        <g transform="matrix(1,0,0,1,522.338372,9.910574)">
+            <text x="162.68px" y="456.854px" style="font-family:'CMUSerif-Roman', 'CMU Serif';font-weight:500;font-size:37.5px;">Pro<tspan x="222.611px " y="456.854px ">d</tspan>ucts</text>
+        </g>
+        <g transform="matrix(1.066667,0,0,1.066667,-60,-6.666667)">
+            <g transform="matrix(0.9375,-0,-0,0.9375,15.71846,42.175293)">
+                <path d="M167.984,94.68L143.234,61.68L118.484,94.68L167.984,94.68Z"/>
+                <path d="M913.234,839.18L943.234,861.68L913.234,884.18L913.234,839.18Z"/>
+                <path d="M143.234,88.08L143.234,861.68L919.234,861.68" style="fill:none;stroke:black;stroke-width:10px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+            </g>
+        </g>
+        <g transform="matrix(0,-1,1,0,-452.120745,936.25694)">
+            <text x="301.748px" y="516.667px" style="font-family:'CMUSerif-Bold', 'CMU Serif';font-weight:700;font-size:75px;">Energy</text>
+        </g>
+        <g transform="matrix(1,0,0,1,63.785784,447.400739)">
+            <text x="109.493px" y="516.667px" style="font-family:'CMUSerif-Bold', 'CMU Serif';font-weight:700;font-size:62.5px;">Progress of Reaction</text>
+        </g>
+        <g transform="matrix(1,0,0,1,0,136.363636)">
+            <path d="M100,535.707L359.103,535.707C359.103,535.707 408.417,178.783 492.836,178.783C567.447,178.783 657.565,340.823 657.565,340.823L860,340.823" style="fill:none;stroke:black;stroke-width:5px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+        </g>
+        <g transform="matrix(1.038179,0,0,1,25.834738,0)">
+            <path d="M359.103,477.186L608.499,477.186" style="fill:none;stroke:black;stroke-width:4.91px;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:14.716,19.622,0,0,0,0;stroke-dashoffset:-9.811;"/>
+        </g>
+        <g transform="matrix(-1.857724,0,0,1.21319,1425.896802,93.153501)">
+            <path d="M359.103,477.186L608.499,477.186" style="fill:none;stroke:black;stroke-width:3.19px;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:9.561,12.748,0,0,0,0;stroke-dashoffset:6.374;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,62.718499,30.685379)">
+            <text x="442.801px" y="374.161px" style="font-family:'CMUSerif-Roman', 'CMU Serif';font-weight:500;font-size:50px;fill:rgb(0,191,96);">E</text>
+            <text x="476.785px" y="390.811px" style="font-family:'CMUSerif-Roman', 'CMU Serif';font-weight:500;font-size:29.15px;fill:rgb(0,191,96);">A</text>
+        </g>
+        <g transform="matrix(1,0,0,1,272.757451,199.006003)">
+            <text x="442.801px" y="374.161px" style="font-family:'CMUSerif-Roman', 'CMU Serif';font-weight:500;font-size:50px;fill:rgb(189,0,94);">Ov<tspan x="506.595px " y="374.161px ">e</tspan>rall</text>
+            <text x="442.801px" y="439.542px" style="font-family:'CMUSerif-Roman', 'CMU Serif';font-weight:500;font-size:50px;fill:rgb(189,0,94);">Change</text>
+        </g>
+    </g>
+</svg>

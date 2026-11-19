@@ -1,0 +1,9 @@
+[
+  "shared-tex-preamble",
+  "regex-replace",
+  "obsidian-pandoc",
+  "obsidian-html-tags-autocomplete",
+  "extended-markdown-syntax",
+  "obsidian-tikzjax",
+  "obsidian-git"
+]

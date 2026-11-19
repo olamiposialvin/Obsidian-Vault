@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: View
+    filters:
+      and:
+        - Purpose == "Assignment"
+        - file.inFolder("School/Assignments")
+    groupBy:
+      property: Subject
+      direction: ASC
+    order:
+      - file.name
+      - Date
+    sort:
+      - property: Date
+        direction: ASC
+  - type: kanban
+    name: View 2
