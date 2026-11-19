@@ -18,6 +18,9 @@ $$
 \\[1em]
 \boxed{T \approx 1.43 \, \mathrm{s}}
 $$
+
+<div style="break-after: page;"></div>
+
 2. A simple pendulum of mass $50 \, \text{kg}$ oscillates with amplitude $4 \, \text{cm}$ and period $2.0 \, \text{s}$. Determine the angular and linear velocities of the bob when the velocity of the bob is maximum.
 $$
 \begin{aligned}
