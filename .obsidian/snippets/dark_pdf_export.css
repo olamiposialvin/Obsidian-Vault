@@ -1,0 +1,35 @@
+@media print {
+  html,
+  body,
+  .print,
+  .markdown-preview-view {
+    background-color: #1c1c1c !important;
+    color: #dadada !important;
+    --background-primary: #1c1c1c;
+    --text-normal: #dadada;
+    --text-muted: #b8b8b8;
+    --text-faint: #909090;
+    --h1-color: #dadada;
+    --h2-color: #dadada;
+    --h3-color: #dadada;
+    --h4-color: #dadada;
+  }
+
+  @page {
+    margin: 0;
+    background: #1c1c1c;
+  }
+
+  .markdown-preview-view {
+    padding: 40px !important;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+  }
+
+  html,
+  body {
+    background: #1c1c1c !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}

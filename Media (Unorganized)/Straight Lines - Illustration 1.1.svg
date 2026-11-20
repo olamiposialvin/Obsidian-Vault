@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 272 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-14.36377,-22.086182)">
+        <g transform="matrix(0.15625,0,0,0.277778,0,0)">
+            <g id="Axes" transform="matrix(6.4,0,0,3.6,-34.13125,-173.737793)">
+                <g transform="matrix(1,0,0,0.850141,100,100)">
+                    <path d="M0,0L0,235.255" style="fill:none;"/>
+                    <g transform="matrix(1,-0,-0,1.176276,-80.303223,-34.88048)">
+                        <path d="M84.803,35.653L80.303,29.653L75.803,35.653L84.803,35.653Z" style="fill:rgb(218,218,218);"/>
+                        <path d="M84.803,223.653L80.303,229.653L75.803,223.653L84.803,223.653Z" style="fill:rgb(218,218,218);"/>
+                        <path d="M80.303,34.453L80.303,224.853" style="fill:none;stroke:rgb(218,218,218);stroke-width:2px;"/>
+                    </g>
+                </g>
+                <g transform="matrix(0,-1,0.850141,0,50,250)">
+                    <path d="M0,0L0,235.255" style="fill:none;"/>
+                    <g transform="matrix(0,1.176276,-1,0,179.65332,-35.644944)">
+                        <path d="M36.303,175.153L30.303,179.653L36.303,184.153L36.303,175.153Z" style="fill:rgb(218,218,218);"/>
+                        <path d="M224.303,175.153L230.303,179.653L224.303,184.153L224.303,175.153Z" style="fill:rgb(218,218,218);"/>
+                        <path d="M35.103,179.653L225.503,179.653" style="fill:none;stroke:rgb(218,218,218);stroke-width:2px;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.15625,0,0,0.277778,0,0)">
+            <g id="Axes--Labels" serif:id="Axes&apos; Labels" transform="matrix(6.4,0,0,3.6,-34.13125,-173.737793)">
+                <g transform="matrix(1,0,0,1,-10.499066,5.733457)">
+                    <text x="29.952px" y="249.65px" style="font-family:'CMUSerif-Roman', 'CMU Serif';font-weight:500;font-size:25px;fill:rgb(218,218,218);">-</text>
+                    <g transform="matrix(25,0,0,25,49.836956,249.649843)">
+                    </g>
+                    <text x="38.265px" y="249.65px" style="font-family:'CMUSerif-Italic', 'CMU Serif';font-weight:500;font-style:italic;font-size:25px;fill:rgb(218,218,218);">x</text>
+                </g>
+                <g transform="matrix(1,0,0,1,59.293903,71.39752)">
+                    <text x="29.402px" y="249.65px" style="font-family:'CMUSerif-Roman', 'CMU Serif';font-weight:500;font-size:25px;fill:rgb(218,218,218);">-</text>
+                    <g transform="matrix(25,0,0,25,49.836956,249.649843)">
+                    </g>
+                    <text x="37.715px" y="249.65px" style="font-family:'CMUSerif-Italic', 'CMU Serif';font-weight:500;font-style:italic;font-size:25px;fill:rgb(218,218,218);">y</text>
+                </g>
+                <g transform="matrix(1,0,0,1,59.293903,-164.776796)">
+                    <text x="23.836px" y="249.65px" style="font-family:'CMUSerif-Roman', 'CMU Serif';font-weight:500;font-size:25px;fill:rgb(218,218,218);">+</text>
+                    <g transform="matrix(25,0,0,25,55.403363,249.649843)">
+                    </g>
+                    <text x="43.282px" y="249.65px" style="font-family:'CMUSerif-Italic', 'CMU Serif';font-weight:500;font-style:italic;font-size:25px;fill:rgb(218,218,218);">y</text>
+                </g>
+                <g transform="matrix(1,0,0,1,234.735797,6.594053)">
+                    <text x="23.836px" y="249.65px" style="font-family:'CMUSerif-Roman', 'CMU Serif';font-weight:500;font-size:25px;fill:rgb(218,218,218);">+</text>
+                    <g transform="matrix(25,0,0,25,54.854046,249.649843)">
+                    </g>
+                    <text x="43.282px" y="249.65px" style="font-family:'CMUSerif-Italic', 'CMU Serif';font-weight:500;font-style:italic;font-size:25px;fill:rgb(218,218,218);">x</text>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.15625,0,0,0.277778,0,0)">
+            <g id="Lines" transform="matrix(6.4,0,0,3.6,-34.13125,-173.737793)">
+                <g transform="matrix(-0.598782,-1.60122,1.598782,-2.39878,-236.422978,979.755937)">
+                    <path d="M50,250L100,300" style="fill:none;stroke:rgb(218,218,218);stroke-width:0.69px;stroke-linecap:butt;"/>
+                </g>
+                <g transform="matrix(0.598782,-1.60122,-1.598782,-2.39878,586.422975,979.755937)">
+                    <path d="M50,250L100,300" style="fill:none;stroke:rgb(218,218,218);stroke-width:0.69px;stroke-linecap:butt;"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.15625,0,0,0.277778,0,0)">
+            <g id="Points" transform="matrix(6.4,0,0,3.6,-34.13125,-173.737793)">
+                <g transform="matrix(1.788628,0,0,1.788628,-138.009979,-105.150456)">
+                    <circle cx="175" cy="133.333" r="2.097" style="fill:rgb(218,218,218);"/>
+                </g>
+                <g transform="matrix(1.788628,0,0,1.788628,-167.176648,11.516217)">
+                    <circle cx="175" cy="133.333" r="2.097" style="fill:rgb(218,218,218);"/>
+                </g>
+                <g transform="matrix(1.788628,0,0,1.788628,-108.843311,11.516217)">
+                    <circle cx="175" cy="133.333" r="2.097" style="fill:rgb(218,218,218);"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.15625,0,0,0.277778,0,0)">
+            <g id="Points--Labels" serif:id="Points&apos; Labels" transform="matrix(6.4,0,0,3.6,-34.13125,-173.737793)">
+                <g transform="matrix(1,0,0,1,27.004571,140.305079)">
+                    <g transform="matrix(25,0,0,25,169.296373,134.772558)">
+                    </g>
+                    <text x="151.083px" y="134.773px" style="font-family:'CMUSerif-Italic', 'CMU Serif';font-weight:500;font-style:italic;font-size:25px;fill:rgb(218,218,218);">R</text>
+                </g>
+                <g transform="matrix(1,0,0,1,-30.488433,100.381251)">
+                    <g transform="matrix(25,0,0,25,169.76024,134.772558)">
+                    </g>
+                    <text x="150.62px" y="134.773px" style="font-family:'CMUSerif-Italic', 'CMU Serif';font-weight:500;font-style:italic;font-size:25px;fill:rgb(218,218,218);">Q</text>
+                </g>
+                <g transform="matrix(1,0,0,1,-4.967761,4.599587)">
+                    <g transform="matrix(25,0,0,25,168.661607,134.772558)">
+                    </g>
+                    <text x="151.718px" y="134.773px" style="font-family:'CMUSerif-Italic', 'CMU Serif';font-weight:500;font-style:italic;font-size:25px;fill:rgb(218,218,218);">P</text>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.15625,0,0,0.277778,0,0)">
+            <g id="Angles" transform="matrix(6.4,0,0,3.6,-34.13125,-173.737793)">
+                <g transform="matrix(9.539352,0,0,9.539352,-1494.386549,-1138.580182)">
+                    <path d="M174.491,135.368L175,133.333L175.509,135.368C175.346,135.408 175.175,135.43 175,135.43C174.825,135.43 174.654,135.408 174.491,135.368Z" style="fill:none;stroke:rgb(218,218,218);stroke-width:0.1px;stroke-linecap:butt;"/>
+                </g>
+                <g transform="matrix(9.539352,0,0,9.539352,-1523.553218,-1021.913509)">
+                    <path d="M175,133.333L175.509,131.299C176.42,131.527 177.097,132.352 177.097,133.333L175,133.333Z" style="fill:none;stroke:rgb(218,218,218);stroke-width:0.1px;stroke-linecap:butt;"/>
+                </g>
+                <g transform="matrix(9.539352,0,0,9.539352,-1465.219881,-1021.913509)">
+                    <path d="M175.509,135.368L174.491,131.299C174.654,131.258 174.825,131.237 175,131.237C176.157,131.237 177.097,132.176 177.097,133.333" style="fill:none;stroke:rgb(218,218,218);stroke-width:0.1px;stroke-linecap:butt;"/>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.15625,0,0,0.277778,0,0)">
+            <g id="Angles--Labels" serif:id="Angles&apos; Labels" transform="matrix(6.4,0,0,3.6,-34.13125,-173.737793)">
+                <g transform="matrix(1,0,0,1,-0.427789,7.197956)">
+                    <g transform="matrix(20,0,0,20,180.071342,164.973262)">
+                    </g>
+                    <text x="168.978px" y="164.973px" style="font-family:'CMUSerif-Italic', 'CMU Serif';font-weight:500;font-style:italic;font-size:20px;fill:rgb(218,218,218);">α</text>
+                </g>
+                <g transform="matrix(1,0,0,1,-4.97745,61.396176)">
+                    <text x="166.063px" y="164.973px" style="font-family:'CMUSerif-Italic', 'CMU Serif';font-weight:500;font-style:italic;font-size:20px;fill:rgb(218,218,218);">α</text>
+                    <g transform="matrix(11.66,0,0,11.66,182.986342,171.633262)">
+                    </g>
+                    <text x="177.156px" y="171.633px" style="font-family:'CMUSerif-Roman', 'CMU Serif';font-weight:500;font-size:11.66px;fill:rgb(218,218,218);">1</text>
+                </g>
+                <g transform="matrix(1,0,0,1,46.385324,61.04623)">
+                    <text x="166.063px" y="164.973px" style="font-family:'CMUSerif-Italic', 'CMU Serif';font-weight:500;font-style:italic;font-size:20px;fill:rgb(218,218,218);">α</text>
+                    <g transform="matrix(11.66,0,0,11.66,182.986342,171.633262)">
+                    </g>
+                    <text x="177.156px" y="171.633px" style="font-family:'CMUSerif-Roman', 'CMU Serif';font-weight:500;font-size:11.66px;fill:rgb(218,218,218);">2</text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,256 @@
+{
+  "defaultFlags": "g",
+  "historyLimit": 10,
+  "showPreview": true,
+  "defaultSelectionOnly": false,
+  "vaultExcludeGlobs": "",
+  "vaultMatchTimeoutMs": 2000,
+  "vaultApplyWarnFiles": 1000,
+  "lastVaultReplace": {
+    "startedAt": 1794418758092,
+    "pattern": "\\!critical",
+    "flags": "g",
+    "replacement": "!note",
+    "files": [
+      {
+        "path": "School/Misc/Further Mathematics Worksheet (13-10-26).md",
+        "afterHash": 2405193148,
+        "matchCount": 10,
+        "edits": [
+          {
+            "index": 466,
+            "before": "!critical",
+            "after": "!note"
+          },
+          {
+            "index": 1099,
+            "before": "!critical",
+            "after": "!note"
+          },
+          {
+            "index": 2105,
+            "before": "!critical",
+            "after": "!note"
+          },
+          {
+            "index": 3361,
+            "before": "!critical",
+            "after": "!note"
+          },
+          {
+            "index": 3720,
+            "before": "!critical",
+            "after": "!note"
+          },
+          {
+            "index": 3992,
+            "before": "!critical",
+            "after": "!note"
+          },
+          {
+            "index": 4353,
+            "before": "!critical",
+            "after": "!note"
+          },
+          {
+            "index": 4573,
+            "before": "!critical",
+            "after": "!note"
+          },
+          {
+            "index": 4824,
+            "before": "!critical",
+            "after": "!note"
+          },
+          {
+            "index": 5276,
+            "before": "!critical",
+            "after": "!note"
+          }
+        ]
+      },
+      {
+        "path": "School/Assignments/Mathematics (21-10-26).md",
+        "afterHash": 2864328295,
+        "matchCount": 3,
+        "edits": [
+          {
+            "index": 742,
+            "before": "!critical",
+            "after": "!note"
+          },
+          {
+            "index": 1103,
+            "before": "!critical",
+            "after": "!note"
+          },
+          {
+            "index": 1825,
+            "before": "!critical",
+            "after": "!note"
+          }
+        ]
+      },
+      {
+        "path": "School/Assignments/Mathematics (31-10-26).md",
+        "afterHash": 1724741797,
+        "matchCount": 1,
+        "edits": [
+          {
+            "index": 1545,
+            "before": "!critical",
+            "after": "!note"
+          }
+        ]
+      },
+      {
+        "path": "School/Assignments/Further Mathematics (22-9-26).md",
+        "afterHash": 614786595,
+        "matchCount": 6,
+        "edits": [
+          {
+            "index": 2164,
+            "before": "!critical",
+            "after": "!note"
+          },
+          {
+            "index": 2562,
+            "before": "!critical",
+            "after": "!note"
+          },
+          {
+            "index": 2963,
+            "before": "!critical",
+            "after": "!note"
+          },
+          {
+            "index": 3208,
+            "before": "!critical",
+            "after": "!note"
+          },
+          {
+            "index": 3400,
+            "before": "!critical",
+            "after": "!note"
+          },
+          {
+            "index": 3598,
+            "before": "!critical",
+            "after": "!note"
+          }
+        ]
+      },
+      {
+        "path": "School/Assignments/Further Mathematics (3-10-26).md",
+        "afterHash": 536578076,
+        "matchCount": 1,
+        "edits": [
+          {
+            "index": 473,
+            "before": "!critical",
+            "after": "!note"
+          }
+        ]
+      },
+      {
+        "path": "School/Assignments/English (20-9-26).md",
+        "afterHash": 977863967,
+        "matchCount": 7,
+        "edits": [
+          {
+            "index": 20729,
+            "before": "!critical",
+            "after": "!note"
+          },
+          {
+            "index": 21127,
+            "before": "!critical",
+            "after": "!note"
+          },
+          {
+            "index": 21528,
+            "before": "!critical",
+            "after": "!note"
+          },
+          {
+            "index": 21773,
+            "before": "!critical",
+            "after": "!note"
+          },
+          {
+            "index": 21965,
+            "before": "!critical",
+            "after": "!note"
+          },
+          {
+            "index": 22163,
+            "before": "!critical",
+            "after": "!note"
+          },
+          {
+            "index": 42013,
+            "before": "!critical",
+            "after": "!note"
+          }
+        ]
+      }
+    ]
+  },
+  "recentPatterns": [
+    {
+      "search": "\\} (.+?) \\\\text\\{",
+      "replace": "$$$1$$",
+      "flags": "g",
+      "timestamp": 1793376084811
+    },
+    {
+      "search": " \\[\\[[0-9]+\\]\\]",
+      "replace": "",
+      "flags": "g",
+      "timestamp": 1791228072813
+    },
+    {
+      "search": "\\#\\# ",
+      "replace": "# ",
+      "flags": "g",
+      "timestamp": 1791227367647
+    },
+    {
+      "search": "[0-9]+\\.",
+      "replace": "-",
+      "flags": "g",
+      "timestamp": 1790098864114
+    },
+    {
+      "search": " ([0-9])",
+      "replace": "\\n$1",
+      "flags": "g",
+      "timestamp": 1790092826775
+    },
+    {
+      "search": " \\-",
+      "replace": "\\n -",
+      "flags": "g",
+      "timestamp": 1790092694096
+    },
+    {
+      "search": "\\[\\[[0-9]+\\]\\]",
+      "replace": "",
+      "flags": "",
+      "timestamp": 1790018140228
+    },
+    {
+      "search": "_(.+?)_",
+      "replace": "*$1*",
+      "flags": "",
+      "timestamp": 1789404857602
+    },
+    {
+      "search": "_(.+?)_",
+      "replace": "\\*$1\\*",
+      "flags": "g",
+      "timestamp": 1789404822430
+    }
+  ],
+  "ruleSets": []
+}

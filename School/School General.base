@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: View
+    filters:
+      and:
+        - file.inFolder("School")
+        - file.ext != "base"
+    groupBy:
+      property: Subject
+      direction: ASC
