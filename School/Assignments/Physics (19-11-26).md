@@ -3,7 +3,8 @@ Subject: Physics
 Date: 2026-11-19
 Purpose: Assignment
 ---
-1. An object in simple harmonic motion has an angular speed of $4.4 \, \text{rad} \, \text{s} ^-1$. Calculate the period of the motion.
+
+1. An object in simple harmonic motion has an angular speed of $4.4 \, \text{rad} \, \text{s} ^{-1}$. Calculate the period of the motion.
 $$
 \omega = 4.4 \, \mathrm{rad \, s^{-1}}
 $$
@@ -61,7 +62,7 @@ $$
 \\[1em]
 \begin{array}{|r|c|c|}
 \hline
-\textbf{Variable} & \textbf{Exact Value} & \textbf{Approximate Value {\scriptsize(2.d.p)}}
+\textbf{Variable} & \textbf{Exact} & \textbf{Estimated {\scriptsize(2.d.p)}}
 \\ \hline
 \omega & \pi \, \mathrm{rad \, s^{-1}} & 3.14 \, \mathrm{rad \, s^{-1}}
 \\ \hline
