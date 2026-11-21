@@ -64,7 +64,7 @@ $$
 \end{aligned}
 $$
 $$
-\begin{array}{|c|c|}
+\begin{array}{|c|c|c|c|c|c|}
 \hline
 \log h & 0.3 & 0.5 & 0.6 & 0.7 & 0.8
 \\ \hline
@@ -73,5 +73,5 @@ $$
 \end{array}
 $$
 
-a
+im too lazy to make a graph so im not doing it graphically, instead im using slope formula
 
