@@ -6,7 +6,7 @@ Purpose: Assignment
 The following table gives the corresponding values of two variables $h$ and $t$.
 
 $$
-\begin{array}{|c|c|}
+\begin{array}{|c||*{5}{c|}}
 \hline
 h & 2 & 3 & 4 & 5 & 6
 \\ \hline
@@ -44,7 +44,7 @@ $$
 \text{Compare with the equation $y = mx + c$}
 $$
 $$
-\begin{array}{c}
+\begin{array}{*{6}{c}}
 y & = & m & x & + & c
 \\
 \Bigg\updownarrow & & \Bigg\updownarrow & \Bigg\updownarrow & & \Bigg\updownarrow
@@ -64,13 +64,90 @@ $$
 \end{aligned}
 $$
 $$
-\begin{array}{|c|c|c|c|c|c|}
+\begin{array}{|c||*{5}{c|}}
 \hline
 \log h & 0.301 & 0.477 & 0.602 & 0.699 & 0.778
 \\ \hline
-\log t & 
+\log t & 0.806 & 1.511 & 2.010 & 2.398 & 2.715
 \\ \hline
 \end{array}
 $$
 
 im too lazy to make a graph so im not doing it graphically, instead im using slope formula
+
+$$
+\text{Using}
+\\
+\begin{array}{cc}
+x_1 = 0.477 & x_2 = 0.778
+\\
+y_1 = 1.511 & y_2 = 2.715
+\end{array}
+$$
+$$
+n = \frac{2.715 - 1.511}{0.778 - 0.477}
+$$
+$$
+n = \frac{1.204}{0.301}
+$$
+$$
+\boxed{n = 4}
+$$
+$$
+\log t = 4 \log h + \log k
+$$
+$$
+\text{Using}
+\\
+\begin{aligned}
+\log h &= 0.477
+\\
+\log t &= 1.511
+\end{aligned}
+$$
+$$
+1.511 = 4 \times 0.477 + \log k
+$$
+$$
+1.511 = 1.908 + \log k
+$$
+$$
+1.511 - 1.908 = \log k
+$$
+$$
+-0.397 = \log k
+$$
+$$
+10^{-0.397} = \cancel{10}^{\cancel{\log} k}
+$$
+$$
+0.401 = k
+$$
+$$
+\boxed{k = 0.401}
+$$
+$$
+\therefore \log t = 4 \log h + \log 0.401
+$$
+$$
+\log t =\log 0.401 h^4
+$$
+$$
+\boxed{t = 0.401 h^4}
+$$
+$$
+\text{Given $h = 4.5$}
+$$
+
+$$
+t = 0.401 \times 410.0625
+$$
+$$
+t = 164.4350625
+$$
+$$
+\boxed{t \approx 164.4}
+$$
+$$
+\therefore \text{When $h = 4.5$, $t \approx 164.4 $}
+$$
