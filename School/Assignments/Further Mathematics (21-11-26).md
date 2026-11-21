@@ -121,7 +121,7 @@ $$
 10^{-0.397} = \cancel{10}^{\cancel{\log} k}
 $$
 $$
-0.4 = k
+0.4 \approx k
 $$
 $$
 \boxed{k = 0.4}
