@@ -3,6 +3,7 @@ Subject: Further Mathematics
 Date: 2026-11-21
 Purpose: Assignment
 ---
+
 The following table gives the corresponding values of two variables $h$ and $t$.
 
 $$
