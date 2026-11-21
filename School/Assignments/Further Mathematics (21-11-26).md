@@ -18,7 +18,7 @@ $$
 If the relation between $h$ and $t$ is of the form $t = kh^n$ where $k$ and $n$ are constants.
 
 1. Graphically determine the values of $k$ and $n$.
-2. Use the graph to estimate to 1 decimal place the value of $t$ when $h = 4.5$
+2. Use the graph to estimate to 1 decimal place the value of $t$ when $h = 4.5$.
 
 # Solution
 
@@ -58,7 +58,7 @@ $$
 \begin{aligned}
 \text{$y$ intercept} &= \log k
 \\
-\text{Gradient} &= \log n
+\text{Gradient} &= n
 \\
 \text{Plot} &= \log t \ \text{against} \ \log h
 \end{aligned}
@@ -121,33 +121,30 @@ $$
 10^{-0.397} = \cancel{10}^{\cancel{\log} k}
 $$
 $$
-0.401 = k
+0.4 = k
 $$
 $$
-\boxed{k = 0.401}
+\boxed{k = 0.4}
 $$
 $$
-\therefore \log t = 4 \log h + \log 0.401
+\therefore \log t = 4 \log h + \log 0.4
 $$
 $$
-\log t =\log 0.401 h^4
+\log t =\log 0.4 h^4
 $$
 $$
-\boxed{t = 0.401 h^4}
+\boxed{t = 0.4 h^4}
 $$
 $$
 \text{Given $h = 4.5$}
 $$
 
 $$
-t = 0.401 \times 410.0625
+t = 0.4 \times 410.0625
 $$
 $$
-t = 164.4350625
+\boxed{t \approx 164.0}
 $$
 $$
-\boxed{t \approx 164.4}
-$$
-$$
-\therefore \text{When $h = 4.5$, $t \approx 164.4 $}
+\therefore \text{When $h = 4.5$, $t \approx 164.0 $}
 $$
