@@ -18,7 +18,7 @@ $$
 If the relation between $h$ and $t$ is of the form $t = kh^n$ where $k$ and $n$ are constants.
 
 1. Graphically determine the values of $k$ and $n$.
-2. Use the graph to estimate to 1 decimal place the value of $t$ when $h = 4.5$.
+2. Use the graph to estimate to 1 decimal place the value of $t$ when $h = 4.5$
 
 # Solution
 
