@@ -66,12 +66,48 @@ $$
 $$
 \begin{array}{|c|c|c|c|c|c|}
 \hline
-\log h & 0.3 & 0.5 & 0.6 & 0.7 & 0.8
+\log h & 0.3 & \overset{\smash{\raise{1em}{x_1}}}{0.5} & 0.6 & \overset{\smash{\raise{1em}{x_2}}}{0.7} & 0.8
 \\ \hline
-\log t & 0.8 & 1.5 & 2.0 & 2.4 & 2.7
+\log t & 0.8 & \overset{\smash{\lower{3em}{y_1}}}{1.5} & 2.0 & \overset{\smash{\lower{3em}{y_2}}}{2.4} & 2.7
 \\ \hline
 \end{array}
 $$
 
 im too lazy to make a graph so im not doing it graphically, instead im using slope formula
+
+$$
+\text{Slope} \ n = \frac{y_2 - y_1}{x_2 - x_1}
+$$
+$$
+n = \frac{2.4 - 1.5}{0.7 - 0.5}
+$$
+$$
+n = \frac{0.9}{0.2}
+$$
+$$
+\boxed{n = \frac{9}{2} = 4.5}
+$$
+$$
+\log t = \frac{9}{2} \log h + \log k
+$$
+$$
+1.5 = \frac{9}{2} \times 0.5 + \log k
+$$
+$$
+\frac{3}{2} = \frac{9}{4} + \log k
+$$
+$$
+\frac{3}{2} - \frac{9}{4} = \log k
+$$
+$$
+10^{\frac{6 - 9}{4}} = \cancel{10}^{\cancel{\log} k}
+$$
+$$
+10^{\frac{-3}{4}} = k
+$$
+$$
+\boxed{k \approx 0.18}
+$$
+$$
+$$
 
