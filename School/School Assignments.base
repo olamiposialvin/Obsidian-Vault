@@ -14,5 +14,6 @@ views:
     sort:
       - property: Date
         direction: ASC
+    columnSize: {}
   - type: kanban
     name: View 2
