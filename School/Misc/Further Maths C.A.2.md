@@ -17,21 +17,71 @@ $$
 \HUGE\textbf{Data}
 \\[1em]
 \begin{aligned}
-A = (x_1, y_1)
+A &= (x_1, y_1)
 \\
-B = (x_2, y_2)
+B &= (x_2, y_2)
 \\
-C = (x_3, y_3)
+C &= (x_3, y_3)
 \\
-D = (2, 1)
+D &= (2, 1)
 \\
-E = (1, 5)
+E &= (1, 5)
 \\
-F = (-6, -1)
+F &= (-6, -1)
 \end{aligned}
+$$
+$$
+\LARGE\text{Equations}
+\\[1em]
+\begin{array}{c}
+D_x = \frac{x_1 + x_3}{2} & D_y = \frac{y_1 + y_3}{2}
+\\
+E_x = \frac{x_1 + x_2}{2} & E_y = \frac{y_1 + y_2}{2}
+\\
+F_x = \frac{x_2 + x_3}{2} & F_y = \frac{y_2 + y_3}{2}
+
+\end{array}
 $$
 
 
 [^1]: Refers to question 2a.
 
 [^2]: Refers to question 2b.
+
+
+## Question 2 (2a)
+
+$$
+\Huge\textbf{Data}
+\\[1em]
+\begin{aligned}
+L &: y = mx + c
+\\
+L_1 &: 3x + 2y - 5 = 0
+\\
+L_2 &: x - 2y - 7 = 0
+\\
+L_3 &: x + 2y - 5 = 0
+\end{aligned}
+$$
+$$
+\Huge\textbf{Relations}
+\\[1em]
+   \text{$L_1$ and $L_2$ intersect at point $(x, y)$}
+\\ \text{$L$ and $L_3$ are parallel $(m = m_3)$}
+$$
+$$
+\LARGE\text{Point of Intersection}
+\\[0.75em]
+\begin{array}{r@{\quad \hcline{3em} \;}l}
+3x + 2y - 5 = 0 & \left< i \right>
+\\
+x - 2y - 7 = 0 & \left< ii \right>
+\end{array}
+\\[1em]
+\text{Add $\left< i \right>$ and $\left< ii \right>$ together}
+\\[1em]
+3x + 2y - 5 + (x - 2y - 7) = 0 + 0
+\\
+3x \cancel{+ 2y} - 5 + x \cancel{- 2y} - 7 = 0
+$$
