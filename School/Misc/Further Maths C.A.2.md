@@ -10,6 +10,28 @@ Purpose: Past Question
 2.  Two straight lines are $3x + 2y - 5 = 0$ and $x - 2y - 7 = 0$. Find the equation of a line passing through their point of intersection and parallel to the line $x + 2y - 5 = 0$.[^1]
 3. Find the value of $\cos (-300^\circ)$ in surd form.[^2]
 
+# Solution
+## Question 1
+
+$$
+\HUGE\textbf{Data}
+\\[1em]
+\begin{aligned}
+A = (x_1, y_1)
+\\
+B = (x_2, y_2)
+\\
+C = (x_3, y_3)
+\\
+D = (2, 1)
+\\
+E = (1, 5)
+\\
+F = (-6, -1)
+\end{aligned}
+$$
+
+
 [^1]: Refers to question 2a.
 
 [^2]: Refers to question 2b.
