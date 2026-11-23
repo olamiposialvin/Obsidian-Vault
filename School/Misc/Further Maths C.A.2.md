@@ -84,4 +84,24 @@ x - 2y - 7 = 0 & \left< ii \right>
 3x + 2y - 5 + (x - 2y - 7) = 0 + 0
 \\
 3x \cancel{+ 2y} - 5 + x \cancel{- 2y} - 7 = 0
+\\
+4x - 12 = 0
+\\
+4x = 12
+\\[0.5em]
+\boxed{x = 3}
+\\[2em]
+\text{In $\left< i \right>$}
+\\[1em]
+3(3) + 2y - 5 = 0
+\\
+9 + 2y - 5 = 0
+\\
+4 + 2y = 0
+\\
+2y = -4
+\\[0.5em]
+\boxed{y = -2}
+\\[2.5em]
+\therefore \text{The point of intersection is $\boxed{(3, -2)}$}
 $$
