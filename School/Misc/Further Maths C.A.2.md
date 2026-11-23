@@ -7,8 +7,8 @@ Purpose: Past Question
 	1. Show that $\Delta DEF$ is right angled.
 	2. Find the coordinate of $B$.
 	3. Find the equation of $AC$.
-2. [^1] Two straight lines are $3x + 2y - 5 = 0$ and $x - 2y - 7 = 0$. Find the equation of a line passing through their point of intersection and parallel to the line $x + 2y - 5 = 0$.
-3. [^2] Find the value of $\cos (-300^\circ)$ in surd form.
+2.  Two straight lines are $3x + 2y - 5 = 0$ and $x - 2y - 7 = 0$. Find the equation of a line passing through their point of intersection and parallel to the line $x + 2y - 5 = 0$.[^1]
+3. Find the value of $\cos (-300^\circ)$ in surd form.[^2]
 
 [^1]: Refers to question 2a.
 
