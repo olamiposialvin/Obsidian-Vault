@@ -43,12 +43,6 @@ F_x = \frac{x_2 + x_3}{2} & F_y = \frac{y_2 + y_3}{2}
 \end{array}
 $$
 
-
-[^1]: Refers to question 2a.
-
-[^2]: Refers to question 2b.
-
-
 ## Question 2 (2a)
 
 $$
@@ -62,6 +56,18 @@ L_1 &: 3x + 2y - 5 = 0
 L_2 &: x - 2y - 7 = 0
 \\
 L_3 &: x + 2y - 5 = 0
+\end{aligned}
+\\[2em]
+\LARGE\textbf{Later Obtained}
+\\[1em]
+\begin{aligned}
+x &= 3
+\\
+y &= -2
+\\
+m &= -\frac{1}{2}
+\\
+c &= -\frac{1}{2}
 \end{aligned}
 $$
 $$
@@ -105,3 +111,60 @@ x - 2y - 7 = 0 & \left< ii \right>
 \\[2.5em]
 \therefore \text{The point of intersection is $\boxed{(3, -2)}$}
 $$
+$$
+\LARGE\text{Gradient (Parallelism)}
+\\[0.75em]
+L_3: x + 2y - 5 = 0
+\\
+2y = -x + 5
+\\
+y = \enclose{}{-\frac{1}{2}} \, x + \frac{5}{2}
+\\[0.75em]
+\boxed{m_3 = -\frac{1}{2}}
+\\[2em]
+\text{Since lines $L$ and $L_3$ are parallel, $m = m_3$}
+\\[0.5em]
+\boxed{m = -\frac{1}{2}}
+$$
+$$
+\LARGE\text{Y$\!-$Intercept}
+\\[0.75em]
+L : y = mx + c
+\\
+(-2) = \left( -\tfrac{1}{2} \right)(3) + c
+\\
+-2 = -\tfrac{3}{2} + c
+\\
+\tfrac{3}{2} -2 = c
+\\
+\tfrac{3}{2} - \tfrac{4}{2} = c
+\\
+{-\tfrac{1}{2}} = c
+\\[0.75em]
+\boxed{c = -\tfrac{1}{2}}
+$$
+$$
+\Huge\textbf{Equation}
+\\[0.75em]
+\Large\boxed{y = -\frac{1}{2}x - \frac{1}{2}}
+$$
+
+## Question 3 (2b)
+
+$$
+\cos (-300^\circ) = \cos (300^\circ)
+\\
+\footnotesize{(\cos \text{is an even function})}
+\\[0.75em]
+\cos (300^\circ) = + \cos (360 - 300)
+\\
+\footnotesize{(\text{300$^\circ$ lies on the 4th quadrant, where $\cos$ is positive})}
+\\[0.75em]
+\cos (300^\circ) = + \cos (60)
+\\[1em]
+\boxed{\cos (300^\circ) = + \frac{1}{2}}
+$$
+
+[^1]: Refers to question 2a.
+
+[^2]: Refers to question 2b.
