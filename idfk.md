@@ -47,9 +47,3 @@ $$
 | 11B |     F.Maths<br>Vocational      |  Trade<br>Civics   | English<br>Economics | Math<br>Language<br>Chemistry  |       Geo./Lit.<br>Physics        | Digital Technologies<br>Biology |
 | 11C | Trade<br>F.Maths<br>Vocational | Economics<br>Math  | Commerce<br>Biology  |   English<br>Other Languages   |      Geo./Lit.<br>Accounting      |      Digital Technologies       |
 | 11D |    Government<br>Vocational    |  F.Maths<br>Trade  |  Biology<br>Civics   | CRS<br>Economics<br>Languages  |       Geo./Lit.<br>English        |  Digital Technologies<br>Math   |
-
-
-
-$$
-\sum_{n = 1}^{x}n = \sqrt{\sum_{n = 1}^{x}n^3}
-$$
