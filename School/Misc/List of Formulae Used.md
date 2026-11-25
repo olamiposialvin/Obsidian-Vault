@@ -80,9 +80,20 @@ Three points are collinear if:
 
 $\text{height} = \dfrac{| x_1(y_2 - y_3) + x_2(y_3 - y_1) + x_3(y_1 - y_2) |}{\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}}$[^10]
 
+
+## Trigonometric Identities
+
+$\sin \theta = \cos (90 - \theta)$
+$\cos \theta = \sin (90 - \theta)$
+$\tan \theta = \frac{\sin \theta}{\cos \theta}$
+$\tan \theta = \cot (90 - \theta)$
+$\sin ^2 \theta + \cos ^2 \theta = 1$
+$\csc ^2 \theta = 1 + \cot ^2 \theta$
+$\sec ^2 \theta = 1 + \tan ^2 \theta$
+
 ## Misc.
 
-If $|x| = a$, then $x = a$ or $x = {-a}$.
+If $|x| = a$ and $a \geq 0$, then $x = \pm a$.
 
 
 # Mathematics
