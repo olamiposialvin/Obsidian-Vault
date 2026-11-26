@@ -1,5 +1,5 @@
 views:
-  - type: table
+  - type: cards
     name: View
     filters:
       and:
@@ -15,5 +15,6 @@ views:
       - property: Date
         direction: ASC
     columnSize: {}
-  - type: kanban
-    name: View 2
+    columnWidth: 280
+    imageAspectRatio: 0.5
+    cardSize: 200

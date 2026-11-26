@@ -13,8 +13,6 @@ x = -2 & x = \tfrac{15}{2}
 x + 2 = 0 & x - \tfrac{15}{2} = 0
 \end{array}
 \\
-\text{If $x = 0$ OR $y = 0$, then $xy = 0$}
-\\
 (x + 2) \! \left( x - \tfrac{15}{2} \right) = 0
 \\
 (x + 2)(2x - 15) = 0
